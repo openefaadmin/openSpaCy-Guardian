@@ -85,7 +85,8 @@ sudo ./install.sh
 *Note: Installer currently targets CentOS 9 Stream with support for Ubuntu 22.04 coming soon.*
 ---
 ## 📄 License
-GPL License.
+This project is licensed under the [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
+All modifications and forks must also remain open-source under the same license.
 ---
 ## 🤝 Contributing
 Whether you're interested in creating new modules, improving NLP models, or integrating with other filters — we welcome your help. Feel free to submit issues or open a pull request.
