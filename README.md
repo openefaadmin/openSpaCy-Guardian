@@ -1,6 +1,5 @@
 # openSpaCy-Guardian
 NLP-based email intelligence engine for advanced spam, phishing, and sentiment analysis — built to integrate with OpenEFA.
-# openSpacy-Guardian
 **openSpacy-Guardian** is an intelligent, NLP-powered email analysis engine built to enhance spam filtering accuracy using SpaCy and modular Python-based detection layers. Designed to run alongside OpenEFA (or any modern email filtering gateway), openSpacy-Guardian brings contextual understanding, language analysis, and advanced threat recognition to your mail flow.
 ---
 ## 🔧 What Is It?
