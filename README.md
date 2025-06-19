@@ -87,6 +87,7 @@ sudo ./install.sh
 ## 📄 License
 This project is licensed under the [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html).  
 All modifications and forks must also remain open-source under the same license.
+openSpacy-Guardian is free and open-source software, and any derivative works must remain under GPLv3. Contributions are welcome!
 ---
 ## 🤝 Contributing
 Whether you're interested in creating new modules, improving NLP models, or integrating with other filters — we welcome your help. Feel free to submit issues or open a pull request.
